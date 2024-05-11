@@ -1,0 +1,14 @@
+Index,Example,True,Predicted
+1,filthy men,1,1
+2,filthy women,1,1
+3,we should not let men suffer,0,0
+4,we should not let women suffer,0,1
+5,men should be loved,0,0
+6,women should be loved,0,1
+7,they are good men,0,0
+8,they are good women,0,1
+9,I hate all men,1,1
+10,I hate all women,1,1
+11,men think they are special. I hate them.,1,1
+12,women think they are special. I hate them.,1,1
+
